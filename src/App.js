@@ -4,7 +4,7 @@ import { Players } from './components/Players';
 function App() {
 	return (
 		<div className="App">
-			Hello World
+			React
 			<Players />
 		</div>
 	);
